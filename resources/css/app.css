@@ -1,0 +1,9 @@
+
+.textbox-container {
+    padding: 20px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+}
